@@ -9,7 +9,7 @@ Video is also avaiable at [PALOS Policy / Business rules Engine from NExST.R&DLa
 or <br/>
 another link is [ Introduction of PALOS Policy / Business rules Engine from NExST.R&DLabs.](https://youtu.be/O-itMgYHRvc)
 
-# ***Relevant NADIA project list***
+# ***Relevant PALOS project list***
 [PALOS Java](https://github.com/DeanLee77/Nadia)<br/>
 [PALOS Java REST](https://github.com/NExST-RnDLabs/NadiaRS)<br/>
 [PALOS C/C++ (In Progress)](https://github.com/DeanLee77/NADIA-CPP)
