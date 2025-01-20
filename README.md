@@ -1,19 +1,18 @@
-# NADIA.NET Rule/Inference Engine
-Open source project Nadia Rule/Policy Engine with React.js and Spring.
-This project is based on original project [Nadia Rule/Inference Engine.](https://github.com/DeanLee77/Nadia).
+# PALOS.NET Rule/Inference Engine
+This project is based on original project [PALOS Rule/Inference Engine.](https://github.com/DeanLee77/Nadia).
 As this project is titled, this project is written in C#(.NET).
 
-There is another project written in Java with React.JS, and can be found in [Nadia-R.S Rule/Inference Engine](https://github.com/NExST-RnDLabs/NadiaRS).
+There is another project written in Java with React.JS, and can be found in [PALOS Rule/Inference Engine](https://github.com/NExST-RnDLabs/NadiaRS).
 <br/>
 <br/>
-Video is also avaiable at [NADIA Policy / Business rules Engine from NExST.R&DLabs](https://youtu.be/xyWjscJ3LxI) <br/>
+Video is also avaiable at [PALOS Policy / Business rules Engine from NExST.R&DLabs](https://youtu.be/xyWjscJ3LxI) <br/>
 or <br/>
-another link is [ Introduction of NADIA Policy / Business rules Engine from NExST.R&DLabs.](https://youtu.be/O-itMgYHRvc)
+another link is [ Introduction of PALOS Policy / Business rules Engine from NExST.R&DLabs.](https://youtu.be/O-itMgYHRvc)
 
 # ***Relevant NADIA project list***
-[NADIA Java](https://github.com/DeanLee77/Nadia)<br/>
-[NADIA Java REST](https://github.com/NExST-RnDLabs/NadiaRS)<br/>
-[NADIA C/C++ (In Progress)](https://github.com/DeanLee77/NADIA-CPP)
+[PALOS Java](https://github.com/DeanLee77/Nadia)<br/>
+[PALOS Java REST](https://github.com/NExST-RnDLabs/NadiaRS)<br/>
+[PALOS C/C++ (In Progress)](https://github.com/DeanLee77/NADIA-CPP)
 
 ## 1. Introduction
 This project is building a Rules(Policies)/Inference Engine with ease of use and maintain rules/policies. It aims to be:
@@ -43,7 +42,7 @@ If you would like to contribute to this project, then please create your own bra
 Please have a look at a file of testing rule. Within the example file, all indented rules uses 'Tab' key for indentation. The rule scanner considers of an indented rule as a child rule of previous rule in a rule text.
 
 ## Note:
-If you need a commercial or coustomised version of Nadia engine, then please contact on 'nexst.rndlabs@gmail.com'.
+If you need a commercial or coustomised version of PALOS engine, then please contact on 'nexst.rndlabs@gmail.com'.
 
 ## 6. How does it work
 There is a number of key components as follows;
@@ -91,5 +90,5 @@ An inference engine using forward chaining searches the inference rules until it
 * 'statement A' is false with given information of 'statement B' and 'statement C', however it could be changed based on conclusion  of 'statement B' because 'statement B' is unknown.
 
 ## 7. License
-Copyright (c) 2017-2022 individual contributors.
+Copyright (c) 2017-2025 individual contributors.
 Nadia-C.Sharp is open source project and released under AGPL 3.0 License.
